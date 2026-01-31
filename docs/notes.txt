@@ -1,0 +1,3 @@
+This project demonstrates a simple retrieval-augmented generation system.
+It uses local embeddings and a lightweight language model.
+The system is designed for small knowledge bases.

@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+sentence-transformers==2.2.2
+transformers==4.30.2
+huggingface-hub==0.16.4
+torch>=2.0.0
